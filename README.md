@@ -37,7 +37,7 @@ BeTheHero is a project that aims to connect people who want to make monetary con
 
 ## 🔖 Layout
 
-You can download the project layout in `.sketch` format through [this link](https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/semana-omnistack/aircnc.sketch).
+You can download the project layout in `.sketch` format through [this link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394).
 
 To open the file in `.sketch` format on any operating system use the tool [Zeplin](https://zeplin.io).
 
