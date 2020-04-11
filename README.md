@@ -6,15 +6,15 @@
   ☕ Code and coffee
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-11.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-9.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-11.svg">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/commits/master">
+  <a href="https://github.com/pedrodanieljardim/BeTheHero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-9.svg">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/issues">
+  <a href="https://github.com/pedrodanieljardim/BeTheHero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-9.svg">
   </a>
 
