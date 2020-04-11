@@ -46,7 +46,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Aircnc is a project that aims to connect companies that want to open spots and developers looking for a place to exchange ideas with devs, get to know the company and work there for a period.
+BeTheHero is a project that aims to connect people who want to make monetary contributions to NGOs (non-governmental organizations) that need help.
 
 
 ## 🔖 Layout
