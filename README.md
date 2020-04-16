@@ -12,7 +12,7 @@
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="memo-Licence">License</a>
+  <a href="-Licence">License</a>
 </p>
 
 <br>
@@ -50,6 +50,6 @@ To open the file in `.sketch` format on any operating system use the tool [Zepli
 
 After the merge of your pull request is done, you can delete your branch.
 
-## :memo: Licence
+## Licence
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
